@@ -11,7 +11,7 @@ let main argv =
 
     printfn "%d" x
 
-
+    let inp = System.Console.ReadLine()
     0 // return an integer exit code
 
 
