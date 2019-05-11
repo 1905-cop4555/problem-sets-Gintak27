@@ -5,8 +5,9 @@ open System
 [<EntryPoint>]
 let main argv =
     printfn "Hello World from F#!"
-
-    let x = 5
+   // val it : int = 57 //dont understand why val gives error 
+    let x = 5 
+            
 
     printfn "%d" x
 
