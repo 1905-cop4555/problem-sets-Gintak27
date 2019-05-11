@@ -3,7 +3,9 @@
 open System
 
 
-let succ n = n+1
+let succ n: int = 
+    let z = n
+
     
 
 [<EntryPoint>]
