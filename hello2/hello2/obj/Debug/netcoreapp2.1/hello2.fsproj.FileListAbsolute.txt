@@ -1,0 +1,10 @@
+C:\Users\kaija\Source\Repos\1905-cop4555\problem-sets-Gintak27\hello2\hello2\bin\Debug\netcoreapp2.1\hello2.deps.json
+C:\Users\kaija\Source\Repos\1905-cop4555\problem-sets-Gintak27\hello2\hello2\bin\Debug\netcoreapp2.1\hello2.runtimeconfig.json
+C:\Users\kaija\Source\Repos\1905-cop4555\problem-sets-Gintak27\hello2\hello2\bin\Debug\netcoreapp2.1\hello2.runtimeconfig.dev.json
+C:\Users\kaija\Source\Repos\1905-cop4555\problem-sets-Gintak27\hello2\hello2\bin\Debug\netcoreapp2.1\hello2.dll
+C:\Users\kaija\Source\Repos\1905-cop4555\problem-sets-Gintak27\hello2\hello2\bin\Debug\netcoreapp2.1\hello2.pdb
+C:\Users\kaija\Source\Repos\1905-cop4555\problem-sets-Gintak27\hello2\hello2\obj\Debug\netcoreapp2.1\hello2.fsprojAssemblyReference.cache
+C:\Users\kaija\Source\Repos\1905-cop4555\problem-sets-Gintak27\hello2\hello2\obj\Debug\netcoreapp2.1\hello2.AssemblyInfoInputs.cache
+C:\Users\kaija\Source\Repos\1905-cop4555\problem-sets-Gintak27\hello2\hello2\obj\Debug\netcoreapp2.1\hello2.AssemblyInfo.fs
+C:\Users\kaija\Source\Repos\1905-cop4555\problem-sets-Gintak27\hello2\hello2\obj\Debug\netcoreapp2.1\hello2.dll
+C:\Users\kaija\Source\Repos\1905-cop4555\problem-sets-Gintak27\hello2\hello2\obj\Debug\netcoreapp2.1\hello2.pdb
