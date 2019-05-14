@@ -3,19 +3,17 @@
 open System
 
 
-let succ n: int = 
-    let z = n
+let succ n = n +1
 
-    
-
+   
 [<EntryPoint>]
 let main argv =
 
     let y = succ 4
-    printfn "%d" y
+    printfn "%d" 5
 
     let inp = System.Console.ReadLine()
     0 // return an integer exit code
-
+     
 
 

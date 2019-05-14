@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "fib", "fib\fib.fsproj", "{179C4CEA-B10E-441C-8544-C6A4C7AE7291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{179C4CEA-B10E-441C-8544-C6A4C7AE7291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179C4CEA-B10E-441C-8544-C6A4C7AE7291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179C4CEA-B10E-441C-8544-C6A4C7AE7291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179C4CEA-B10E-441C-8544-C6A4C7AE7291}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9263869C-A2A3-450B-BAFD-8DBBA7906664}
+	EndGlobalSection
+EndGlobal
