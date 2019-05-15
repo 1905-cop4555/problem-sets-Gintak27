@@ -3,12 +3,6 @@
 open System
 
 
-let times n y = n*y
-
-let one = 1
-
-
-
 let mk_expon times one =
   let rec expon n x =
     match n with 
