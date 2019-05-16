@@ -28,3 +28,9 @@ val cossq : r:float -> float
 val z : bool = false
 val y : int = 1
 val x : string = "test"
+
+> let x,y = "test", 3
+fst (x,y);;
+val y : int = 3
+val x : string = "test"
+val it : string = "test"
