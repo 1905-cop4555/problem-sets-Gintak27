@@ -22,3 +22,9 @@ val cossq : r:float -> float
      let c = cos r * cos r ;;
 
        let c = cos r * cos r ;;
+
+
+ > let x,y,z = "test", 1, false;;
+val z : bool = false
+val y : int = 1
+val x : string = "test"
