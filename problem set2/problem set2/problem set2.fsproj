@@ -7,7 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="Script1.fsx" />
     <Compile Include="Program.fs" />
   </ItemGroup>
+
+  <ItemGroup />
 
 </Project>
