@@ -9,6 +9,10 @@ type 'a Coordinate =
  Throuple (2.25, 5.5, 7.98);;
  Fourple ("2", "3", "4", "5");;
 
- let rec (+) Coordinate = function
-        |  Touple x, y -> 'a + 'a
+ let rec c = function
+        |Touple(n,r) -> 5 , 6
+
+
+
+
    
