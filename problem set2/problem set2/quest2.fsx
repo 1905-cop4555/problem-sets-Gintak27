@@ -8,3 +8,7 @@ type 'a Coordinate =
  Touple (2,4);;
  Throuple (2.25, 5.5, 7.98);;
  Fourple ("2", "3", "4", "5");;
+
+ let rec (+) Coordinate = function
+        |  Touple x, y -> 'a + 'a
+   
