@@ -10,7 +10,8 @@ type 'a Coordinate =
  Fourple ("2", "3", "4", "5");;
 
  let rec c = function
-        |Touple(n,r) -> 5 , 6
+        |Touple(n,r) -> n + r
+            
 
 
 
