@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="Inlineexam.fsx" />
     <None Include="q1.fsx" />
     <None Include="vRestrictions.fsx" />
     <Compile Include="Program.fs" />
