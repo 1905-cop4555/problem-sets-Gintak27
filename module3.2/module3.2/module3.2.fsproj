@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="refexample.fsx" />
     <None Include="ques5.fsx" />
     <None Include="Inlineexam.fsx" />
     <None Include="q1.fsx" />
