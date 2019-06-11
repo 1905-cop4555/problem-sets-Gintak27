@@ -24,5 +24,5 @@ type Account = {balance: unit -> int ; deposit: int -> unit}
 
 let acc = 
        let bal = ref 200
-       {balance = !deposit + balance ;
-        deposit = ref }//dont get why deposit needs to be int -> unit 
+       {deposit = fun d -> bal := !bal + d;
+        balance = fun () -> !bal};;
