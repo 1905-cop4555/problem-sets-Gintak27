@@ -7,3 +7,9 @@
  | ([],[]) -> acc
  | (x::xs,y::ys) -> let acc = x::y::acc
                     interleaveAux acc (xs,ys)
+
+ let interleaveTail l1 l2 =
+  let acc = []
+  interleaveAux acc (l1,l2)
+
+ let noTailResults = interleave ([0..1000],[0..1000]);;
