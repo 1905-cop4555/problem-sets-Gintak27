@@ -1,4 +1,3 @@
-﻿type LinkedList =
- | LastNode of int
- | Node of int * LinkedList
-
+﻿type linkedlist  = 
+     |Node of int
+     |Pointer of linkedlist 
