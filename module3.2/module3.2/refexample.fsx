@@ -26,3 +26,12 @@ let acc =
        let bal = ref 200
        {deposit = fun d -> bal := !bal + d;
         balance = fun () -> !bal};;
+
+ 
+
+let mkstack init =
+      let stk = ref init
+      ((fun x -> stk := x :: (!stk)),        // push
+       (fun () -> stk := List.tail (!stk)),  // pop
+       (fun () -> List.head (!stk)))         // top
+    ;;
