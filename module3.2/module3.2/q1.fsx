@@ -1,3 +1,3 @@
 ﻿type linkedlist  = 
      |Node of int
-     |Pointer of linkedlist 
+     |Pointer of int * linkedlist 
