@@ -1,5 +1,9 @@
 ﻿ let twice f = f << f
- let successor n = n+1;;
+ let succ n = n+1;;
 
 
- twice twice twice (twice successor) 0;;
+ twice twice twice (twice succ) 0;;
+
+ let thrice g = g << g << g
+
+ thrice succ 0;;
