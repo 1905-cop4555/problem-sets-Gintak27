@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="q3.fsx" />
     <None Include="quest7.fsx" />
     <None Include="quest6.fsx" />
     <None Include="quest9.fsx" />

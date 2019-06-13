@@ -4,5 +4,6 @@
     
 
 let rec tun link = function
-        |Node -> []
+        |Node r ->  r + 1
+        |Pointer r x ->  r 
  
